@@ -1,0 +1,28 @@
+From c6a2a70c54dac2891a7e031eb961e241b626f829 Mon Sep 17 00:00:00 2001
+From: mmustafoyev <mmustafoyev123@gmail.com>
+Date: Wed, 19 Jul 2023 17:53:31 +0500
+Subject: [PATCH] Changed another 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 3574519..ae48ee8 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,9 +1,9 @@
+ 1
+ 2
+-3
++3 second another
+ 4
+ 5
+-6
++6 first another
+ 7
+ 8
+ 9
+-- 
+2.34.1
+
