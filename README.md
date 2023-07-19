@@ -1,1 +1,1 @@
-"hello all my friends"
+"hello all my friends " second task
